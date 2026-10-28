@@ -1,0 +1,6 @@
+{
+  "name": "mergedesk-sample",
+  "private": true,
+  "type": "module",
+  "description": "Public sample PR target for MergeDesk demos"
+}
